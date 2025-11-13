@@ -47,5 +47,7 @@ while len(final_output) <= total_results:
     print(f"Received {len(results)} results")
     final_output = final_output + results
 
+print("All Done!")
+
 
     
